@@ -1,0 +1,79 @@
+body{
+    font-family: 'Fira Sans', sans-serif;  
+    background-color: #d9f2d3;
+}
+.head-section{
+    background-color: #d9f2d3;
+    
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav-item{
+    color:black;
+}
+.navbar-brand{
+    font-size:35px;
+   
+}
+
+
+.slider-words{
+    color:#1a4c0f;
+    font-size:50px;
+    font-weight: bold;
+    padding-left:200px;
+    padding-bottom:50px;
+   
+   
+}
+.slider-para{
+    color:black;
+    padding-left:200px;
+    padding-bottom: 90px;;
+}
+.aboutus-section{
+    background-color: #d9f2d3;
+}
+.btn{
+    background-color:#1a4c0f;
+    width:150px;
+    font-size:20px;
+}
+.aboutus-section h3{
+    font-size:35px;
+  
+}
+.aboutus-section p{
+    font-size: 16px;
+    line-height: 28px;
+}
+.plantfinder-section{
+    background-color: #d9f2d3;  
+}
+.plantfinder-section h3{
+    font-size:35px;
+}
+.finder-box .img-fluid{
+    width:300px;
+    height:300px;
+}
+
+.plantnames{
+    font-size:24px ;
+
+}
+.contact-section {
+    background-color: #d9f2d3;
+   
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.address-box p{
+    font-size:17px;
+   
+    
+}
+footer{
+    background-color:#1a4c0f;
+    font-size: 13px;
+}
